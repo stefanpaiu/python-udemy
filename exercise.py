@@ -1,1 +1,5 @@
-#TODO Start practicing Python from the text book
+#TODO Watch and try Python: The Big Picture Pluralsight course
+#TODO Read Python from the text book
+
+# Write code that there are "Obviously No Bugs"
+
