@@ -10,3 +10,6 @@ This is a test.
     
 <b>Exercise 2</b>
     Covers how to create basic webservers with Flask and more advanced ones with Django (see [mysite](/exercise_2_web_development/mysite/))
+
+<b>Exercise 3<//b>
+    About scripting in applications like Blender
